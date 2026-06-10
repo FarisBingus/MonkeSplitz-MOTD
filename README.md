@@ -1,2 +1,0 @@
-# **MonkeSplitz MOTD**
-
